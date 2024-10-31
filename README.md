@@ -1,2 +1,4 @@
 # projeto-java
-Projeto Java
+
+Projeto Java Programação II
+-Lucas Menezes e Leandro Sanches
