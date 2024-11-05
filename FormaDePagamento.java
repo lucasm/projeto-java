@@ -1,4 +1,5 @@
 // Interface para diferentes formas de pagamento
-public interface FormaDePagamento {
-  void realizarPagamento(double valor);
+interface FormaDePagamento {
+    void realizarPagamento(double valor);
+    String getDescricao();  // Método para obter a descrição de cada forma de pagamento individual
 }
