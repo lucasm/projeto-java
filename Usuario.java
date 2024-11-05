@@ -3,7 +3,7 @@ import java.util.Date;
 
 // Enum para Permissões de Usuário
 enum PermissaoUsuario {
-  ADMINISTRADOR, MOTORISTA, CLIENTE
+  ADMINISTRADOR, CLIENTE
 }
 
 // Classe Usuário
