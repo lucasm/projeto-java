@@ -32,6 +32,6 @@ public class Passagem {
 
   @Override
   public String toString() {
-      return destino.toString() + "\nTipo: " + tipo + "\nPreço: R$" + preco + "\n" + assento.toString();
+      return destino.toString() + "Tipo: " + tipo + "\nPreço: R$" + preco + "\n" + assento.toString();
   }
 }

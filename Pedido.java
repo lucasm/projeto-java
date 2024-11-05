@@ -53,7 +53,7 @@ public class Pedido {
 
     System.out.println("\nPassagens Compradas:");
     for (Passagem passagem : passagens) {
-        System.out.println(" - " + passagem);
+        System.out.println("\n - " + passagem);
     }
 
     if (cupom != null) {

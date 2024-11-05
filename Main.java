@@ -18,7 +18,6 @@ public class Main {
 
         System.out.println(usuario.getDetalhes());
 
-
       // 1 - Simular destinos
       Destino destino1 = new Destino(
         "São Paulo",
@@ -37,17 +36,17 @@ public class Main {
       Assento assento1 = new Assento(10);
       Assento assento2 = new Assento(15);
 
-      // 3 - Simular passagens com assentos
+      // 3 - Simular passagens com assentos escolhidos
       Passagem passagem1 = new Passagem(
         destino1,
         TipoPassagem.EXECUTIVA,
-        0,
+        100,
         assento1
         );
       Passagem passagem2 = new Passagem(
         destino2,
         TipoPassagem.VIP,
-        0,
+        200,
         assento2
         );
 
