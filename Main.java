@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-// Sistema POO em Java: Compra de Pssagem de Ônibus
+// Sistema POO em Java: Compra de Passagem de Ônibus
 public class Main {
   public static void main(String[] args) {
 
